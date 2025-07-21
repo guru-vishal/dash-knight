@@ -1,3 +1,4 @@
+/.vs
 /.vscode
 /Library
 /Logs
@@ -6,5 +7,5 @@
 /Temp
 
 .vsconfig
-.sln
-.csproj
+*.sln
+*.csproj
